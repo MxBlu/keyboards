@@ -2,21 +2,7 @@
   "name": "MxSS",
   "vendorId": "0x4d78",
   "productId": "0x5353",
-  "lighting": {
-    "extends": "qmk_underglow",
-    "supportedBacklightValues": [
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      14,
-      16,
-      18,
-      20
-    ]
-  },
+  "lighting": "qmk_rgblight",
   "customKeycodes": [
     {
       "name": "Front LED Mode",
