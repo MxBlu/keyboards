@@ -4,7 +4,7 @@
   "productId": "0x5353",
   "lighting": {
     "extends": "qmk_rgblight",
-    "supportedBacklightValues": [
+    "supportedLightingValues": [
       128,
       129,
       130,
